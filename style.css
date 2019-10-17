@@ -1,0 +1,57 @@
+.hero{
+    background:url("images/background1.jpg");
+    padding:290px 0;
+    text-align:center;
+    background-repeat:no-repeat;
+    background-position:top center;
+    background-size:cover;
+}
+.hero-title{font-family:"Merriweather", serif;
+            font-weight:bold;
+            color:burlywood;;
+            font-size:62px
+            }
+    
+.hero-subtitle{font-family:"Merriweather", serif;
+                color:mediumvioletred;
+                font-size:58px;
+                margin-top:30px;
+                margin-bottom:60px;
+                font-weight: bold;
+                }
+.social i{
+
+    color: #fff;
+    font-size: 17px;
+    background: rgba(0, 0, 0, 0.3);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    line-height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.myPhoto{
+    width: 100%;
+    height: auto;
+}
+.title{
+    font-weight: bold;
+}
+.information i{
+   
+
+
+height: 30px;
+
+width: 30px;
+
+border-radius: 50%;
+
+line-height: 30px;
+
+background: #f4f5f8;
+
+text-align: center;
+}
