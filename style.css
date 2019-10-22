@@ -1,19 +1,20 @@
 .hero{
-    background:url("images/background2.jpg");
+    background:url("images/background6.jpg");
     padding:290px 0;
     text-align:center;
     background-repeat:no-repeat;
     background-position:top center;
     background-size:cover;
+    width: 100%;
 }
 .hero-title{font-family:"Merriweather", serif;
             font-weight:bold;
-            color:currentColor;;
+            color:lightcyan;
             font-size:62px
             }
     
 .hero-subtitle{font-family:"Merriweather", serif;
-                color:currentColor;
+                color:lightcyan;
                 font-size:58px;
                 margin-top:30px;
                 margin-bottom:60px;
