@@ -1,0 +1,111 @@
+.hero{
+    background:url("images/background7.jpeg");
+    padding:290px 0;
+    text-align:center;
+    
+    background-size:contain; 
+    max-width: 100%;
+    height:auto;
+    background-repeat:no-repeat;
+    background-position:top center;
+
+}
+.hero-title{font-family:"Merriweather", serif;
+            font-weight:bold;
+            color:darkgreen;
+            font-size:62px
+            }
+    
+.hero-subtitle{font-family:"Merriweather", serif;
+                color:darkgreen;
+                font-size:58px;
+                margin-top:30px;
+                margin-bottom:60px;
+                font-weight: bold;
+                }
+.social i{
+
+    color: #fff;
+    font-size: 17px;
+    background: rgba(0, 0, 0, 0.3);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    line-height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.myPhoto{
+    width: 100%;
+    height: auto;
+}
+.title{
+    font-weight: bolder;
+    padding-bottom:10px;
+}
+
+.information i{
+   
+
+
+height: 30px;
+
+width: 20px;
+
+border-radius: 50%;
+
+line-height: 30px;
+
+background: #f4f5f8;
+
+text-align: center;
+
+padding-left: 5px;
+}
+
+.content{
+    padding: 200px 0;
+}
+
+.info{
+    padding-left: 25px;
+}
+
+.footer{
+    background: black;
+
+}
+
+.footer p{
+    color:darkcyan;
+    text-align: center;
+    margin: 40px 0;
+}
+.img-author{
+    width:42px;
+}
+.navigation{
+    padding:20px 0;
+    font-family:"Merriweather", serif;
+    
+}
+
+.links ul{
+    padding-right: 0;
+    padding-left:250px;
+}
+
+.links ul li{
+    padding-right:20px;
+    padding-left:20px;
+}
+
+.links ul li a:hover{
+    text-decoration:none;
+    color:#bfba55
+}
+
+.links .active a{
+    color:#bfba55
+}
